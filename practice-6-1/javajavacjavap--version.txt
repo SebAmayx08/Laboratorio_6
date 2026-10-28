@@ -1,0 +1,7 @@
+PS C:\Users\hecto\Documents\Laboratorio 6> java --version
+java 27.0.1.0.3 2026-10-25
+Java HotSpot(TM) 64-Bit Server VM (build 27.0.1.0.3+1-2, mixed mode, sharing)
+PS C:\Users\hecto\Documents\Laboratorio 6> javac --version
+javac 27.0.1.0.3
+PS C:\Users\hecto\Documents\Laboratorio 6> C:\Program "Files\Java\jdk-27.0.1.0.3\bin\javap.exe" -version
+javap 27.0.1.0.3
